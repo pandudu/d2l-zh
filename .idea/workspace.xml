@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="258b2621-3b03-40fb-8524-3f2f5cc95cf6" name="Default Changelist" comment="" />
+    <list default="true" id="258b2621-3b03-40fb-8524-3f2f5cc95cf6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_code/chapter/chapter3_lineregression_simple.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_code/chapter/chapter3_lineregression_simple.ipynb" afterDir="false" />
+    </list>
     <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,12 +20,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_code/chapter/chapter3.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_code/chapter/chapter3_lineregression_simple2.ipynb">
+        <entry file="file://$PROJECT_DIR$/_code/chapter/chapter3_lineregression_simple.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -66,6 +64,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -88,7 +87,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -100,11 +98,12 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_code/chapter" />
+      <recent name="$PROJECT_DIR$/build" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_code" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/build" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -158,7 +157,8 @@
       <workItem from="1595051459508" duration="2692000" />
       <workItem from="1595054883500" duration="2246000" />
       <workItem from="1595064070993" duration="3503000" />
-      <workItem from="1595068106135" duration="1707000" />
+      <workItem from="1595068106135" duration="3486000" />
+      <workItem from="1595144286000" duration="556000" />
     </task>
     <task id="LOCAL-00001" summary="《动手学深度学习》第2章和第3章代码">
       <created>1595068625825</created>
@@ -171,7 +171,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11515000" />
+    <option name="totallyTimeSpent" value="13850000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -184,8 +184,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="728" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16074313" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16074313" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -339,6 +340,16 @@
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_code/chapter/chapter3.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/opt/anaconda3/envs/mxnet/lib/python3.7/site-packages/mxnet/gluon/nn/basic_layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_code/chapter/chapter3_lineregression_simple.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
