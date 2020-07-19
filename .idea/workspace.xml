@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="258b2621-3b03-40fb-8524-3f2f5cc95cf6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_code/chapter/chapter3_lineregression_simple.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_code/chapter/chapter3_lineregression_simple.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_code/chapter/chapter2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_code/chapter/2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_code/chapter/chapter3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_code/chapter/3.2_lineregression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_code/chapter/chapter3_lineregression_simple.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_code/chapter/3.3_lineregression_simple.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_code/chapter/chapter3_lineregression_simple2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_code/chapter/3.5_Fashion-MNIST.ipynb" afterDir="false" />
     </list>
     <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +23,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_code/chapter/chapter3_lineregression_simple.ipynb">
+        <entry file="file://$PROJECT_DIR$/_code/chapter/3.3_lineregression_simple.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_code/chapter/3.5_Fashion-MNIST.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_code/chapter/2.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_code/chapter/3.2_lineregression.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -158,7 +176,7 @@
       <workItem from="1595054883500" duration="2246000" />
       <workItem from="1595064070993" duration="3503000" />
       <workItem from="1595068106135" duration="3486000" />
-      <workItem from="1595144286000" duration="556000" />
+      <workItem from="1595144286000" duration="1196000" />
     </task>
     <task id="LOCAL-00001" summary="《动手学深度学习》第2章和第3章代码">
       <created>1595068625825</created>
@@ -171,7 +189,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13850000" />
+    <option name="totallyTimeSpent" value="14490000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -186,7 +204,7 @@
     <frame x="0" y="23" width="1280" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.16074313" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16074313" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -224,7 +242,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/_code/chapter/chapter3.ipynb</url>
+          <url>file://$PROJECT_DIR$/_code/chapter/3.2_lineregression.ipynb</url>
           <line>92</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
@@ -319,9 +337,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_code/chapter/chapter2.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/environment.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -336,12 +351,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_code/chapter/chapter3_lineregression_simple2.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_code/chapter/chapter3.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
     <entry file="file://$USER_HOME$/opt/anaconda3/envs/mxnet/lib/python3.7/site-packages/mxnet/gluon/nn/basic_layers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -349,7 +358,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_code/chapter/chapter3_lineregression_simple.ipynb">
+    <entry file="file://$PROJECT_DIR$/_code/chapter/3.5_Fashion-MNIST.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_code/chapter/2.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_code/chapter/3.2_lineregression.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_code/chapter/3.3_lineregression_simple.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
