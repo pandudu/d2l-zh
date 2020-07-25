@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="258b2621-3b03-40fb-8524-3f2f5cc95cf6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_code/chapter/3.5_Fashion-MNIST.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_code/chapter/3.5_Fashion-MNIST.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_code/chapter/3.2_lineregression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_code/chapter/3.2. Linear Regression Implementation from Scratch.ipynb" afterDir="false" />
     </list>
     <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +19,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_code/chapter/3.6_softmax.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_code/chapter/3.5_Fashion-MNIST.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_code/chapter/3.2. Linear Regression Implementation from Scratch.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -53,9 +63,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="482" />
+    <option name="x" value="504" />
     <option name="y" value="23" />
-    <option name="width" value="798" />
+    <option name="width" value="776" />
     <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -162,6 +172,7 @@
       <workItem from="1595068106135" duration="3486000" />
       <workItem from="1595144286000" duration="3025000" />
       <workItem from="1595150695003" duration="2104000" />
+      <workItem from="1595654661151" duration="2440000" />
     </task>
     <task id="LOCAL-00001" summary="《动手学深度学习》第2章和第3章代码">
       <created>1595068625825</created>
@@ -174,7 +185,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18423000" />
+    <option name="totallyTimeSpent" value="20863000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -186,10 +197,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="499" y="23" width="781" height="728" extended-state="0" />
+    <frame x="504" y="23" width="776" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.41735536" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.41666666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -213,7 +224,7 @@
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" x="0" y="0" width="270" height="528" id="Documentation" order="7" side_tool="true" weight="0.3140496" />
+      <window_info anchor="right" x="0" y="0" width="270" height="528" id="Documentation" order="7" side_tool="true" weight="0.31393775" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,17 +233,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="《动手学深度学习》第2章和第3章代码" />
     <option name="LAST_COMMIT_MESSAGE" value="《动手学深度学习》第2章和第3章代码" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/_code/chapter/3.2_lineregression.ipynb</url>
-          <line>92</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build/env.yml">
@@ -346,9 +346,6 @@
     <entry file="file://$PROJECT_DIR$/_code/chapter/3.3_lineregression_simple.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_code/chapter/3.2_lineregression.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/d2lzh/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -363,10 +360,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_code/chapter/3.6_softmax.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/_code/chapter/3.5_Fashion-MNIST.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_code/chapter/3.6_softmax.ipynb">
+    <entry file="file://$PROJECT_DIR$/_code/chapter/3.2. Linear Regression Implementation from Scratch.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
