@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="258b2621-3b03-40fb-8524-3f2f5cc95cf6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_code/chapter/chapter2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_code/chapter/2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_code/chapter/chapter3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_code/chapter/3.2_lineregression.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_code/chapter/chapter3_lineregression_simple.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_code/chapter/3.3_lineregression_simple.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_code/chapter/chapter3_lineregression_simple2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_code/chapter/3.5_Fashion-MNIST.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_code/chapter/3.5_Fashion-MNIST.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_code/chapter/3.5_Fashion-MNIST.ipynb" afterDir="false" />
     </list>
     <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,22 +20,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_code/chapter/3.3_lineregression_simple.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_code/chapter/3.5_Fashion-MNIST.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_code/chapter/2.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_code/chapter/3.2_lineregression.ipynb">
+        <entry file="file://$PROJECT_DIR$/_code/chapter/3.6_softmax.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -66,12 +48,14 @@
         <option value="$PROJECT_DIR$/_code/chapter2/chapter2.ipynb" />
         <option value="$PROJECT_DIR$/_code/chapter/chapter3.ipynb" />
         <option value="$PROJECT_DIR$/_code/chapter/chapter3_lineregression_simple.ipynb" />
+        <option value="$PROJECT_DIR$/_code/chapter/3.6_softmax.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="482" />
     <option name="y" value="23" />
-    <option name="width" value="1280" />
+    <option name="width" value="798" />
     <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -82,7 +66,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,6 +88,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,7 +160,8 @@
       <workItem from="1595054883500" duration="2246000" />
       <workItem from="1595064070993" duration="3503000" />
       <workItem from="1595068106135" duration="3486000" />
-      <workItem from="1595144286000" duration="1196000" />
+      <workItem from="1595144286000" duration="3025000" />
+      <workItem from="1595150695003" duration="2104000" />
     </task>
     <task id="LOCAL-00001" summary="《动手学深度学习》第2章和第3章代码">
       <created>1595068625825</created>
@@ -189,7 +174,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14490000" />
+    <option name="totallyTimeSpent" value="18423000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -201,10 +186,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="728" extended-state="0" />
+    <frame x="499" y="23" width="781" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16074313" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.41735536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -220,7 +205,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" weight="0.32861635" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32861635" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49919224" weight="0.32861635" />
-      <window_info anchor="bottom" id="Jupyter" order="13" weight="0.32861635" />
+      <window_info active="true" anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.32861635" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -228,7 +213,7 @@
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" x="0" y="0" width="270" height="528" id="Documentation" order="7" side_tool="true" weight="0.32956383" />
+      <window_info anchor="right" x="0" y="0" width="270" height="528" id="Documentation" order="7" side_tool="true" weight="0.3140496" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,9 +247,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d2lzh/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter_how-to-use/how-to-use.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -358,16 +340,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_code/chapter/3.5_Fashion-MNIST.ipynb">
+    <entry file="file://$PROJECT_DIR$/_code/chapter/2.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_code/chapter/2.ipynb">
+    <entry file="file://$PROJECT_DIR$/_code/chapter/3.3_lineregression_simple.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_code/chapter/3.2_lineregression.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_code/chapter/3.3_lineregression_simple.ipynb">
+    <entry file="file://$PROJECT_DIR$/d2lzh/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/opt/anaconda3/envs/mxnet/lib/python3.7/site-packages/mxnet/gluon/data/vision/datasets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="116" column="39" lean-forward="true" selection-start-line="116" selection-start-column="39" selection-end-line="116" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_code/chapter/3.5_Fashion-MNIST.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_code/chapter/3.6_softmax.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
