@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="258b2621-3b03-40fb-8524-3f2f5cc95cf6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_code/chapter/3.2_lineregression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_code/chapter/3.2. Linear Regression Implementation from Scratch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_code/chapter/3.3_lineregression_simple.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_code/chapter/3.3. Concise Implementation of Linear Regression.ipynb" afterDir="false" />
     </list>
     <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,13 +23,13 @@
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_code/chapter/3.5_Fashion-MNIST.ipynb">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_code/chapter/3.3. Concise Implementation of Linear Regression.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_code/chapter/3.2. Linear Regression Implementation from Scratch.ipynb">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_code/chapter/3.5_Fashion-MNIST.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -62,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="504" />
     <option name="y" value="23" />
     <option name="width" value="776" />
@@ -172,7 +171,7 @@
       <workItem from="1595068106135" duration="3486000" />
       <workItem from="1595144286000" duration="3025000" />
       <workItem from="1595150695003" duration="2104000" />
-      <workItem from="1595654661151" duration="2440000" />
+      <workItem from="1595654661151" duration="3200000" />
     </task>
     <task id="LOCAL-00001" summary="《动手学深度学习》第2章和第3章代码">
       <created>1595068625825</created>
@@ -185,7 +184,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20863000" />
+    <option name="totallyTimeSpent" value="21623000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -197,10 +196,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="504" y="23" width="776" height="728" extended-state="0" />
+    <frame x="504" y="23" width="776" height="728" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.41666666" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.41553134" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -343,9 +342,6 @@
     <entry file="file://$PROJECT_DIR$/_code/chapter/2.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_code/chapter/3.3_lineregression_simple.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/d2lzh/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -360,13 +356,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_code/chapter/3.6_softmax.ipynb">
+    <entry file="file://$PROJECT_DIR$/_code/chapter/3.2. Linear Regression Implementation from Scratch.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_code/chapter/3.5_Fashion-MNIST.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_code/chapter/3.2. Linear Regression Implementation from Scratch.ipynb">
+    <entry file="file://$PROJECT_DIR$/_code/chapter/3.6_softmax.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_code/chapter/3.3. Concise Implementation of Linear Regression.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
